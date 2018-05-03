@@ -1,6 +1,3 @@
-//
-// Created by nguedjio on 22/04/18.
-//
 
 #ifndef PROJETCPP_FONCTION_H
 #define PROJETCPP_FONCTION_H

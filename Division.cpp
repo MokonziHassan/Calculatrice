@@ -1,6 +1,4 @@
-//
-// Created by nguedjio on 20/04/18.
-//
+
 
 #include <iostream>
 #include "Division.h"

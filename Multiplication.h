@@ -1,6 +1,3 @@
-//
-// Created by nguedjio on 20/04/18.
-//
 
 #ifndef PROJETCPP_MULTIPLICATION_H
 #define PROJETCPP_MULTIPLICATION_H

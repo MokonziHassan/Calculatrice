@@ -1,6 +1,4 @@
-//
-// Created by nguedjio on 22/04/18.
-//
+
 
 #include <iostream>
 #include <stack>

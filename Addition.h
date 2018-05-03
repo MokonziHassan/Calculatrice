@@ -1,6 +1,4 @@
-//
-// Created by nguedjio on 20/04/18.
-//
+
 
 #ifndef PROJETCPP_ADDITION_H
 #define PROJETCPP_ADDITION_H
